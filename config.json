@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codingthunder",
+        "prod_uri": "mysql://root:@localhost/codingthunder",
+        "fb_url": "https://facebook.com/codingthunder",
+        "tw_url": "https://twitter.com/codingthunder",
+        "gh_url": "https://github.com/codingthunder",
+        "blog_name": "The Coding Thunder",
+        "tag_line": "Heven for Programmers",
+        "gmail_user": "yourmail@gmail.com",
+        "gmail_pass": "yourpass",
+        "about_text": "I am learning flask with python",
+        "no_of_posts": 1,
+        "admin_user": "user",
+        "admin_password": "pass",
+        "login_image": "login.svg",
+        "upload_location": "G:\\Python Flask\\Project Clean Blog\\static"
+
+    }
+}
